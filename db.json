@@ -4,43 +4,25 @@
     "id": 1,
     "name": "电水壶",
     "username": "Bret",
-    "email": "39.9",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
+    "email": "39.9"
       },
          {
     "id": 2,
     "name": "电压力锅",
     "username": "Bret",
-    "email": "260.99",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
+    "email": "260.99"
       },
         {
     "id": 3,
     "name": "电饭煲",
     "username": "Bret",
-    "email": "200.99",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
+    "email": "200.99"
+      },
+            {
+    "id": 4,
+    "name": "电磁炉",
+    "username": "Bret",
+    "email": "300.99"
       },
   ],
   "comments": [
